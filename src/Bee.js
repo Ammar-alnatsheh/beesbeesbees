@@ -1,5 +1,6 @@
 var Bee = function() {
   this.prototype = Object.create(Grub.prototype);
+  
   this.age = 5;
   this.color = 'yellow';
   this.food = 'jelly';
