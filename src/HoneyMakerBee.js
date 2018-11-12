@@ -9,10 +9,10 @@ var HoneyMakerBee = function() {
 };
 
 
-Bee.prototype.makeHoney = function() {
+HoneyMakerBee.prototype.makeHoney = function() {
   this.honeyPot ++;
 };
 
-Bee.prototype.giveHoney = function() {
+HoneyMakerBee.prototype.giveHoney = function() {
   this.honeyPot --;
 };
