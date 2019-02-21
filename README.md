@@ -7,9 +7,13 @@ Bees (the most noble of insects) progress through specific developmental stages 
 Class Structure
 
 ├── Grub
+
 │   └── Bee
+
 │       ├── HoneyMakerBee
+
 │       └── ForagerBee
+
 │          └── RetiredForagerBee
 
 
